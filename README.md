@@ -4,7 +4,7 @@ Repository to store client side mods made for Minecraft 1.8.9 LiteLoader
 Source code for all mods is provided in the `src/` directory to comply with the GNU GPLv3 license requirements. 
 Developers can also decompile the .litemod files if they wish to verify the build integrity.
 
-These mods were made to run on the 1.8.9 Snapshot Version of LiteLoader which could lead to instability. [1.8.9 LiteLoader Snapshot Version]([https://github.com/EasyMFnE/Omniscience](https://www.liteloader.com/download#snapshot_1890))
+These mods were made to run on the 1.8.9 Snapshot Version of LiteLoader which could lead to instability. [1.8.9_LiteLoader_Snapshot_Version](https://www.liteloader.com/download#snapshot_1890).
 
 ## Mod List
 
