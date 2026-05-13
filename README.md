@@ -11,14 +11,12 @@ Developers can also decompile the .litemod files if they wish to verify the buil
 **Description:** A Block ESP mod that allows users to highlight specific blocks in the world.
 - **Block ESP:** Highlights target blocks with a visual bounding box, even through walls.
 - **Customizable:** Users can specify the target block ID and adjustment the scan radius via the in-game config panel.
-- **Performance:** Optimized scanning logic to minimize impact on frame rates.
 
 ### 2. SettingsAPI (v1.0.0)
 **Author:** LiamTheToe
 **Description:** A utility mod that provides configuration infrastructure and includes a stealthy combat reach enhancement.
-- **Combat Reach:** Discreetly extends the player's attack range by patching the `EntityRenderer` bytecode.
+- **Combat Reach:** Extends the player's attack range by patching the `EntityRenderer` bytecode.
 - **Config Panel:** Provides an integrated menu for managing mod settings.
-- **Stealth Design:** Designed to be subtle and minimize detection.
 
 ### 3. Omniscience (v3.3.0)
 **Author:** Originally by [EasyMFnE](https://github.com/EasyMFnE/Omniscience).  
@@ -26,7 +24,6 @@ Developers can also decompile the .litemod files if they wish to verify the buil
 **Description:** A powerful visibility modification that reveals invisible players and entities.
 - **True Sight:** Renders invisible players and entities as green, making them visible to the user.
 - **Chams:** Features entity "chams" (Colored Models) to visualize players through solid objects.
-- **Fine-grained Control:** Toggle visibility for players and other entities independently through the settings menu.
 
 ## License
 This project is licensed under the **GNU General Public License v3.0**. 
