@@ -32,3 +32,9 @@ This project is licensed under the **GNU General Public License v3.0**.
 - **Modifications and Other Mods:** All modifications and original works by LiamTheToe are also licensed under GPLv3 to ensure compliance and support open-source development.
 
 See the [LICENSE](LICENSE) file for the full license text.
+
+**This project is for educational and research purposes only.**
+- **NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
+- This repository is a collection of client-side modifications for Minecraft 1.8.9. 
+- The author is not responsible for any consequences resulting from the use of this software, including but not limited to bans from online servers or loss of data. 
+- Users are encouraged to review the [Minecraft End User License Agreement (EULA)](https://www.minecraft.net/eula) and the rules of any server they join before using these modifications.
